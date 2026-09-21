@@ -1,0 +1,32 @@
+date,description,amount,balance,category
+2025-01-01,Opening Balance,0.0,4250.0,5
+2025-01-03,Whole Foods Market,-87.32,8012.68,2
+2025-01-04,Shell Gas Station,-52.18,7960.5,8
+2025-01-05,Netflix Subscription,-15.99,7944.51,1
+2025-01-07,Starbucks,-6.45,7438.06,0
+2025-01-08,Electric Company,-128.5,7309.56,9
+2025-01-10,Amazon.com,-43.97,5515.59,7
+2025-01-11,Trader Joe's,-62.84,5452.75,2
+2025-01-12,Uber Ride,-18.5,5434.25,8
+2025-01-13,AT&T Wireless,-85.0,5349.25,9
+2025-01-14,Chipotle,-12.95,5336.3,0
+2025-01-17,Whole Foods Market,-94.17,9842.13,2
+2025-01-18,Planet Fitness,-29.99,9812.14,3
+2025-01-19,Home Depot,-156.33,9655.81,4
+2025-01-21,Water Bill,-45.0,9390.81,9
+2025-01-22,Target,-67.42,9323.39,7
+2025-01-23,Spotify Subscription,-10.99,9312.4,1
+2025-01-24,Costco,-145.88,9166.52,2
+2025-01-25,Restaurant - Olive Garden,-58.3,9108.22,0
+2025-01-26,Parking Meter,-8.0,9100.22,8
+2025-01-27,Doctor Visit Copay,-40.0,9060.22,3
+2025-01-28,Internet - Comcast,-79.99,8980.23,9
+2025-01-30,Venmo - Refund from Friend,35.0,8515.23,6
+2025-01-31,Trader Joe's,-71.56,8443.67,2
+2025-02-03,Whole Foods Market,-82.19,10461.48,2
+2025-02-04,Shell Gas Station,-48.75,10412.73,8
+2025-02-05,Electric Company,-135.2,10277.53,9
+2025-02-06,Amazon.com,-29.99,10247.54,7
+2025-02-07,Starbucks,-5.8,10241.74,0
+2025-02-08,Car Wash,-24.99,10216.75,8
+2025-02-09,Amazon Refund,43.97,10260.72,6
